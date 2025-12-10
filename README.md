@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Education Management System
+- 🔭 I’m currently working on Education & Learning Management system
 - 💻 Most used line of code `console.log("hello world")`
 - 🌱 I’m currently learning various backend and frontend tools
 - 👯 Open to remote work and relocation opportunities
